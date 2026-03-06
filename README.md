@@ -8,7 +8,7 @@
    - first create the element by using createElemenyt
      const div = document.createElement("div");
    - set text into it by using innerText or innerHTML depend on what we want to create.
-     div.innerHTML = "<h2>New Job</h2>";
+     div.innerHTML = "<h2>New Job</h2>"
    - Find the parent for insert new element into it. And append the new child into it.
      const company = document.querySelector('body');
      company.appendChild(div);
