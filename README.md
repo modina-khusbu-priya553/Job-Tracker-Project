@@ -25,4 +25,4 @@ Answers to Questions
    - preventDefault(): It stops the browser’s default action of an element.
 Example: <a href="https://google.com">Go to Google</a>, here when we click the link it normaly open the google. If we add preventDefault() then it will stop to open the google page when we click the link.
 
- - stopPropagation(): It stops the event from propagating (bubbling) to parent elements in the DOM. If we add stopPropagation() then the triger element will run but stop to propaget to it's parent.
+   - stopPropagation(): It stops the event from propagating (bubbling) to parent elements in the DOM. If we add stopPropagation() then the triger element will run but stop to propaget to it's parent.
