@@ -6,7 +6,7 @@ A responsive Job Tracker Dashboard built with HTML, CSS, and JavaScript. Users c
 
 ## 🚀 Live Demo
 
-- 🌐 Live Site: https://your-live-link.netlify.app
+- 🌐 Live Site: [https://your-live-link.netlify.app](https://modina-khusbu-priya553.github.io/Job-Tracker-Project/)
 
 ---
 
