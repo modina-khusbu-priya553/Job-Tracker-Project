@@ -1,3 +1,78 @@
+# 💼 Job Tracker Dashboard
+
+A responsive Job Tracker Dashboard built with HTML, CSS, and JavaScript. Users can organize job applications by moving them between Interview and Rejected statuses, while the dashboard updates counts dynamically in real time.
+
+---
+
+## 🚀 Live Demo
+
+- 🌐 Live Site: https://your-live-link.netlify.app
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Font Awesome
+- Google Fonts
+
+---
+
+## ✨ Features
+
+- 📋 Display 8+ available job cards
+- 🔄 Toggle jobs between **Interview** and **Rejected**
+- 📊 Dashboard with real-time job statistics
+- 🗂️ Filter jobs using **All**, **Interview**, and **Rejected** tabs
+- ❌ Delete jobs dynamically from the UI
+- 📱 Fully responsive design
+- ⚡ Dynamic DOM manipulation
+- 🎯 Instant UI updates without page refresh
+
+---
+
+## 📦 Dependencies
+
+- Font Awesome
+- Google Fonts
+
+---
+
+## ⚙️ Installation & Setup
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/job-tracker-dashboard.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd job-tracker-dashboard
+```
+
+### Run the project
+
+Simply open **index.html** in your browser, or use the Live Server extension in VS Code.
+
+---
+
+## 📂 Project Structure
+
+```
+job-tracker-dashboard/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
+```
+
+---
+
 Answers to Questions
 
 
